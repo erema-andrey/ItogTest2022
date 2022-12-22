@@ -1,0 +1,15 @@
+D:\Examples\ItogTest2022\bin\Debug\net6.0\ItogTest2022.exe
+D:\Examples\ItogTest2022\bin\Debug\net6.0\ItogTest2022.deps.json
+D:\Examples\ItogTest2022\bin\Debug\net6.0\ItogTest2022.runtimeconfig.json
+D:\Examples\ItogTest2022\bin\Debug\net6.0\ItogTest2022.dll
+D:\Examples\ItogTest2022\bin\Debug\net6.0\ItogTest2022.pdb
+D:\Examples\ItogTest2022\obj\Debug\net6.0\ItogTest2022.csproj.AssemblyReference.cache
+D:\Examples\ItogTest2022\obj\Debug\net6.0\ItogTest2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\ItogTest2022\obj\Debug\net6.0\ItogTest2022.AssemblyInfoInputs.cache
+D:\Examples\ItogTest2022\obj\Debug\net6.0\ItogTest2022.AssemblyInfo.cs
+D:\Examples\ItogTest2022\obj\Debug\net6.0\ItogTest2022.csproj.CoreCompileInputs.cache
+D:\Examples\ItogTest2022\obj\Debug\net6.0\ItogTest2022.dll
+D:\Examples\ItogTest2022\obj\Debug\net6.0\refint\ItogTest2022.dll
+D:\Examples\ItogTest2022\obj\Debug\net6.0\ItogTest2022.pdb
+D:\Examples\ItogTest2022\obj\Debug\net6.0\ItogTest2022.genruntimeconfig.cache
+D:\Examples\ItogTest2022\obj\Debug\net6.0\ref\ItogTest2022.dll
